@@ -1,0 +1,2 @@
+C:\Projects\PCF\NNDropdown\obj\Debug\NNDropdown.pcfproj.AssemblyReference.cache
+C:\Projects\PCF\NNDropdown\obj\Debug\NNDropdown.pcfproj.CoreCompileInputs.cache
